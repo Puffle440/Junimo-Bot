@@ -1,0 +1,2 @@
+# Junimo-Bot
+Stardew bot
